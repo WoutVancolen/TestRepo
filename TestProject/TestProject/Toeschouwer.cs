@@ -6,5 +6,7 @@ namespace TestProject
 {
     public abstract class Toeschouwer
     {
+
+        public int id { get; set; }
     }
 }
