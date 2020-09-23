@@ -8,5 +8,7 @@ namespace TestProject
     {
 
         public int id { get; set; }
+
+        public string naam { get; set; }
     }
 }
